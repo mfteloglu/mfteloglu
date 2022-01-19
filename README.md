@@ -4,6 +4,9 @@
 
 
 <!--
+Snake eating gif -> https://medium.com/@mervekarabulut/readme-ye-snake-eating-contribution-nas%C4%B1l-eklenir-a8667596ec3e
+
+
 **mfteloglu/mfteloglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
